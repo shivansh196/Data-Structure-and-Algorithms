@@ -1,0 +1,26 @@
+#include <bits/stdc++.h> 
+// bool take;
+// bool nottake;
+bool recurr(int n,int k,vector<int> &arr,vector<vector<int>> &dp){
+    
+    if(k==0){
+        return true;
+    }
+    if(n==0){
+        return (arr[0]==k);
+    }
+    if(dp[n][k]!=-1)return dp[n][k];
+   bool take = false;
+    if (arr[n] <= k) {
+           take = recurr(n-1,k - arr[n],arr,dp);
+    }
+    bool nottake = recurr(n-1,k,arr,dp);
+    return dp[n][k] = take||nottake;
+
+}
+bool subsetSumToK(int n, int k, vector<int> &arr) {
+   vector<vector<int>> dp(n,vector<int>(k+1,-1));
+    return recurr(n-1,k,arr,dp);
+   
+    
+}
