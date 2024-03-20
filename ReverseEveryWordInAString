@@ -1,0 +1,23 @@
+class Solution {
+public:
+    string reverseWords(string s) {
+        istringstream ss(s);
+        stack<string> ans;
+        string temp="";
+
+        string word;
+        while(ss>>word){
+            ans.push(word);
+        }
+
+        while(!ans.empty()){
+            temp = temp+ans.top();
+            ans.pop();
+
+            if(!ans.empty()){
+                temp+=" ";
+            }
+        }
+        return temp;
+    }
+};
