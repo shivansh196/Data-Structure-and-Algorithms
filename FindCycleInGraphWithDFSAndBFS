@@ -1,0 +1,52 @@
+class Graph {
+
+public:
+// bool helper(vector<int> adj[],vector<bool>&visit,int i,int parent){
+//     visit[i]=true;
+//     for(auto it:adj[i]){
+//         if(visit[it]==false){
+//             if(helper(adj,visit,it,i))
+//             return true;
+//         }
+//         else{
+//             if(parent!=it){
+//                 return true;
+//             }
+//         }
+//     }
+//     return false;
+// }
+bool dfs(int node,int parent,vector<int> &visit,vector<int>adj[]){
+    visit[node]=1;
+    for(auto it:adj[node]){
+        
+        if(visit[it]!=1){
+            if(dfs(it,node,visit,adj)){
+                return true;
+            }
+        }
+        else if(it!=parent){
+return true;
+        }
+    }
+    return false;
+}
+    bool detectCycle(int V, vector<int> adj[]) {
+    //     vector<bool> visit(V,false);
+    //     for(int i=0;i<V;i++){
+    //     if (visit[i] == false) {
+    //         if (helper(adj, visit, i, -1))
+    //             return true;
+    //     }
+    //    }
+    //     return false;
+    vector<int> visit(V,0);
+
+for(int i=0;i<V;i++){
+    if(!visit[i]){
+        if(dfs(i,-1,visit,adj)) return true;
+    }
+}
+return false;
+    }
+};
