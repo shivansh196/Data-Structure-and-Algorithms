@@ -1,0 +1,45 @@
+vector<int> dijkstra(vector<vector<int>> &edge, int vertices, int edges, int source)
+{
+    // Write your code here.
+    // 'edge' contains {u, v, distance} vectors.
+    vector<vector<int>> adj[vertices];
+
+    for(auto it : edge){
+        int node = it[0];
+        int adjNode = it[1];
+        int len = it[2];
+
+        adj[node].push_back({adjNode,len});
+        adj[adjNode].push_back({node,len});
+    }
+
+    priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+
+    vector<int>dist(vertices,1e9);
+
+    dist[source] = 0;
+
+    pq.push({0,source});
+
+    while(!pq.empty()){
+
+        int node = pq.top().second;
+        int len = pq.top().first;
+
+        pq.pop();
+
+        for(auto it : adj[node]){
+
+            int adjNode = it[0];
+            int adjDis = it[1];
+
+            if(len + adjDis < dist[adjNode]){
+
+                dist[adjNode] = len + adjDis;
+
+                pq.push({dist[adjNode],adjNode});
+            }
+        }
+    }
+     return dist;
+}
