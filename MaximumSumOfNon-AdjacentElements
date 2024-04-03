@@ -1,0 +1,19 @@
+#include <bits/stdc++.h> 
+int recurr(vector<int> &nums,vector<int> &dp,int i){
+    if(i==0 ||i<0){
+        return nums[i];
+    }
+    if(dp[i]!=-1){
+        return dp[i];
+    }
+    
+      int  take = nums[i] + recurr(nums,dp,i-2);
+    
+    int nottake = recurr(nums,dp,i-1);
+    return dp[i]= max(take,nottake);
+}
+int maximumNonAdjacentSum(vector<int> &nums){
+int n = nums.size()-1;
+    vector<int> dp(n+1,-1);
+    return recurr(nums,dp,n);
+}
