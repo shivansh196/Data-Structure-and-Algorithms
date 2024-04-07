@@ -1,0 +1,29 @@
+void treeone(BinaryTreeNode<int>* root1,vector<int> &ans1){
+    if(root1==NULL){
+        return ;
+    }
+    treeone(root1->left,ans1);
+    ans1.push_back(root1->data);
+    treeone(root1->right,ans1);
+}
+void treetwo(BinaryTreeNode<int>* root2,vector<int> &ans2){
+    if(root2==NULL){
+        return ;
+    }
+    treetwo(root2->left,ans2);
+    ans2.push_back(root2->data);
+    treetwo(root2->right,ans2);
+}
+bool identicalTrees(BinaryTreeNode<int>* root1, BinaryTreeNode<int>* root2) {
+    vector<int> ans1;
+    vector<int> ans2;
+     treeone(root1,ans1);
+     treetwo(root2,ans2);
+     int sizee= max(ans1.size(),ans2.size());
+     for(int i=0;i<sizee;i++){
+         if(ans1[i]!=ans2[i]){
+             return false;
+         }
+     }
+     return true;
+}
