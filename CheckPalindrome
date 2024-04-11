@@ -1,0 +1,37 @@
+class Solution {
+public:
+    bool isPalindrome(ListNode* head) {
+        stack<int> st;
+        ListNode* temp = head;
+        ListNode* temp1 = head;
+        
+        // Count the number of nodes in the linked list
+        int count = 0;
+        while (temp != nullptr) {
+            count++;
+            temp = temp->next;
+        }
+        
+        // Push the first half of the values into the stack
+        for (int i = 0; i < count / 2; i++) {
+            st.push(temp1->val);
+            temp1 = temp1->next;
+        }
+        
+        // Adjust temp1 for odd number of nodes
+        if (count % 2 != 0) {
+            temp1 = temp1->next;
+        }
+        
+        // Compare the second half of the list with the stack
+        while (temp1 != nullptr) {
+            if (st.top() != temp1->val) {
+                return false;
+            }
+            st.pop();
+            temp1 = temp1->next;
+        }
+        
+        return true;
+    }
+};
