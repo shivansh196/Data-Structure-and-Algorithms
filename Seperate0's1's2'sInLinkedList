@@ -1,0 +1,32 @@
+Node* sortList(Node *head){
+   vector<int>ans;
+
+    Node* temp=head;
+
+    while(temp!=NULL)
+
+    {
+
+        ans.push_back(temp->data);
+
+        temp=temp->next;
+
+    }
+
+    sort(ans.begin(),ans.end());
+
+    Node* ansi=head;
+
+    for(int i=0;i<ans.size();i++)
+
+    {
+
+        ansi->data=ans[i];
+
+        ansi=ansi->next;
+
+    }
+
+    return head;
+
+}
