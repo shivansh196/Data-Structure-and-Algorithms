@@ -1,0 +1,23 @@
+class Solution {
+public:
+int recurr(TreeNode *temp){
+    if(temp==NULL){
+        return 0;
+    }
+    int ans=0;
+    if(temp->left!=NULL){
+        if(temp->left->left==NULL && temp->left->right== NULL){
+            ans = ans + temp->left->val;
+        }
+        
+    }
+    ans = ans+recurr(temp->left)+recurr(temp->right);
+    return ans;
+
+   
+}
+    int sumOfLeftLeaves(TreeNode* root) {
+        TreeNode *temp = root;
+        return recurr(temp);
+    }
+};
