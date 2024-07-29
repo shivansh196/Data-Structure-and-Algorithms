@@ -23,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
