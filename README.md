@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2727-number-of-senior-citizens](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Graph
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
