@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [2727-number-of-senior-citizens](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 ## Array
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
