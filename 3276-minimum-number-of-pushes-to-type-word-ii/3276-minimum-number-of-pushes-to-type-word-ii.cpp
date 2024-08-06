@@ -11,8 +11,8 @@ public:
         for(auto it:mp){
             temp.push_back(it.second);
         }
-        sort(temp.begin(),temp.end());
-        reverse(temp.begin(),temp.end());
+        sort(temp.rbegin(),temp.rend());
+      
         int ans=0;
         
         for(auto it: temp){
