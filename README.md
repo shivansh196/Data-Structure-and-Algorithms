@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
