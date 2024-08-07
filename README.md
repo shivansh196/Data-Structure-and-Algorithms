@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
