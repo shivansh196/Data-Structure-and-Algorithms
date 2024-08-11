@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2727-number-of-senior-citizens](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
