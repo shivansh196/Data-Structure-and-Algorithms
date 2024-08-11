@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
