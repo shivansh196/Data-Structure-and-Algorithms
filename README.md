@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
