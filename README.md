@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
