@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -228,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
