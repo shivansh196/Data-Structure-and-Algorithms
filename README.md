@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1916-find-center-of-star-graph) |
 ## Counting Sort
 |  |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2714-left-and-right-sum-differences) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
