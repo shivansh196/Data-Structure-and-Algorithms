@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3525-maximum-energy-boost-from-two-drinks) |
