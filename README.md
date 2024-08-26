@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
