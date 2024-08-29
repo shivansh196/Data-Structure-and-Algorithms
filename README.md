@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
