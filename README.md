@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Combinatorics
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 ## Heap (Priority Queue)
 |  |
