@@ -8,8 +8,8 @@ public:
             return 1; // One way to partition: include or exclude the element
         return 0; // No way to partition
     }
-        if(dp[i][sum2]!=-1)
-        return dp[i][sum2];
+        if(dp[sum2][i]!=-1)
+        return dp[sum2][i];
      int take=0;
      int nottake=0;
        
@@ -23,7 +23,7 @@ public:
      
         
 
-        return dp[i][sum2] =  take+nottake;
+        return dp[sum2][i] =  take+nottake;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int total=0;
@@ -37,7 +37,7 @@ public:
       return false;
       if((total-target)%2==1)
       return false;
-      vector<vector<int>> dp(i+1,vector<int>(sum2+1,-1));
+      vector<vector<int>> dp(sum2+1,vector<int>(i+1,-1));
 
       return  recurr(nums,sum2,i-1,dp);
     }
