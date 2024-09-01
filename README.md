@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
+| [1170-shortest-common-supersequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
+| [1170-shortest-common-supersequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Combinatorics
