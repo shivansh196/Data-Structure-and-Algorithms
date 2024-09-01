@@ -15,10 +15,10 @@ public:
                     return false;
                 }
             }
-            else{
+            
             mp1[ch1]=ch2;
             mp2[ch2]=ch1;
-            }
+            
         }
         return true;
     }
