@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Prefix Sum
 |  |
