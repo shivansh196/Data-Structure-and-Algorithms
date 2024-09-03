@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -321,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Prefix Sum
