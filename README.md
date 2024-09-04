@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1137-height-checker) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0135-candy) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0890-lemonade-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1961-maximum-ice-cream-bars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
