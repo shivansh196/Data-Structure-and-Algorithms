@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
