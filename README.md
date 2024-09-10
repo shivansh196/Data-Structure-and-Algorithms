@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0742-to-lower-case](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [1170-shortest-common-supersequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1250-longest-common-subsequence) |
