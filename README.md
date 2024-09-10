@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
+| [2886-faulty-keyboard](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2886-faulty-keyboard) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Array
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2886-faulty-keyboard](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2886-faulty-keyboard) |
 ## Number Theory
 |  |
 | ------- |
