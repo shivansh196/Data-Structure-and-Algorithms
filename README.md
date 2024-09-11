@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
