@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0742-to-lower-case](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0742-to-lower-case) |
