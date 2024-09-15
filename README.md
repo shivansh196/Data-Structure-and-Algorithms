@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
