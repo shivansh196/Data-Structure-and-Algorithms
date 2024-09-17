@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
@@ -312,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
