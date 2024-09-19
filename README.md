@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0135-candy) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0064-minimum-path-sum) |
