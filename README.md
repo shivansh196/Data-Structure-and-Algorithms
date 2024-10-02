@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
