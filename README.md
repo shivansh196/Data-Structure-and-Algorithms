@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -442,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
