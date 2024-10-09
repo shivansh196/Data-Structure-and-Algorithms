@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1833-find-the-highest-altitude](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1833-find-the-highest-altitude) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Union Find
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/2714-left-and-right-sum-differences) |
 ## Backtracking
