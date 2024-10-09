@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0338-counting-bits) |
 ## Enumeration
 |  |
 | ------- |
