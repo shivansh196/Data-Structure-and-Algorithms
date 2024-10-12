@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Trie
