@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0274-h-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
