@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## Enumeration
 |  |
 | ------- |
