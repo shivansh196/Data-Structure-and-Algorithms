@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0792-binary-search](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Trie
