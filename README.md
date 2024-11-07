@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0547-number-of-provinces) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
