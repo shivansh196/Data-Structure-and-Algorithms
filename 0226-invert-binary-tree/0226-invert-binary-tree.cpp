@@ -11,19 +11,17 @@
  */
 class Solution {
 public:
-void recurr(TreeNode* root){
-    if(root==NULL){
-        return;
+    void recurr(TreeNode* root){
+        if(root==NULL){
+            return ;
+        }
+        swap(root->left, root->right);
+        recurr(root->right);
+        recurr(root->left);
+    
     }
-    // if(root->left!=NULL && root->right!=NULL){
-    swap(root->left,root->right);
-    // }
-
-    recurr(root->left);
-    recurr(root->right);
-}
     TreeNode* invertTree(TreeNode* root) {
-       recurr( root);
-       return root;
+        recurr(root);
+        return root;
     }
 };
