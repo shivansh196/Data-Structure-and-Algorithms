@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
