@@ -10,31 +10,29 @@
 
 class Solution {
 public:
- TreeNode* ans = new TreeNode;
-    TreeNode* recurr(TreeNode* root, TreeNode* p, TreeNode* q){
-        if(root==NULL){
-            return NULL;
-        }
-        if(root->val== p->val || root->val== q->val){
-            
-            
-            return root;
-        }
-       TreeNode* left= recurr(root->left,p,q);
-       TreeNode* right = recurr(root->right,p,q);
-
-      if(left!=NULL && right!=NULL){
+TreeNode* ans = new TreeNode();
+TreeNode* recurr(TreeNode* root, TreeNode* p, TreeNode* q){
+    if(root==NULL){
         return root;
-      }
-       if(left!=NULL){
+    }
+    if(root->val == p->val || root->val == q->val){
+        return root;
+    }
+    TreeNode* left = recurr(root->left, p, q);
+    TreeNode* right = recurr(root->right, p, q);
+
+    if(left!=NULL && right!=NULL){
+        return root;
+    }
+    if(left!=NULL ){
         return left;
-       }
-       else{
+    }
+    else{
         return right;
-       }
-        return ans;
-     }
+    }
+    return ans;
+}
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-     return   recurr(root,p,q);
+       return recurr(root, p, q);
     }
 };
