@@ -1,22 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    // Helper function to perform in-order traversal and check if values are in increasing order
-    bool inorder(TreeNode* root, long long& prev) {
-        if (!root) return true;
-        
-        // Check left subtree
-        if (!inorder(root->left, prev)) return false;
-        
-        // Check current node
-        if (root->val <= prev) return false;
-        prev = root->val;
-        
-        // Check right subtree
-        return inorder(root->right, prev);
+    void recurr(TreeNode*root, vector<int> &temp){
+        if(root==NULL){
+            return;
+        }
+        recurr(root->left,temp);
+        temp.push_back(root->val);
+        recurr(root->right,temp);
     }
-    
     bool isValidBST(TreeNode* root) {
-        long long prev = LLONG_MIN; // Use a large negative value to handle edge cases
-        return inorder(root, prev);
+        vector<int> temp;
+        recurr(root,temp);
+        for(int i=0;i<temp.size()-1;i++){
+            if(temp[i+1]<=temp[i]){
+                return false;
+            }
+        }
+        return true;
     }
 };
