@@ -11,49 +11,24 @@
  */
 class Solution {
 public:
-    // void recurr (TreeNode* root, vector<int> &ans){
-    // if(root==NULL){
-    //         return ;
-    //     }
-        
-    //     ans.push_back(root->val);
-    //     recurr(root->right,ans);
-    // }
-    void preorder(TreeNode* root, int level, vector<int> &ans){
+    void recurr(TreeNode* root, vector<int> &ans,int level){
         if(root==NULL){
-            return ;
+            return;
         }
         if(level == ans.size()){
             ans.push_back(root->val);
         }
-        preorder(root->right,level+1,ans);
-        preorder(root->left,level+1,ans);
+            recurr(root->right,ans, level+1);
+            recurr(root->left,ans,level+1);
+        } 
 
-    }
+    
     vector<int> rightSideView(TreeNode* root) {
-    //     vector<int> ans;
-    // recurr(root,ans);
-    // return ans;
-   
-//    queue<TreeNode*> que;
-//    vector<int> ans;
-//    que.push(root);
-//    while(!que.empty()){
-//     TreeNode* temp = que.front();
-//     que.pop();
-//     if(temp!=NULL)
-//     ans.push_back(temp->val);
-//     if(temp->left!=NULL){
-//         que.push(temp->left);
-//     }
-//     if(temp->right!=NULL){
-//         que.push(temp->right);
-//     }
-//    }
-//    return ans;
-vector<int> ans;
-int level=0;
-preorder(root,level,ans);
-return ans;
+        vector<int> ans;
+        int level=0;
+
+     
+        recurr(root,ans,level);
+        return ans;
     }
 };
