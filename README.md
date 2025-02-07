@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0191-number-of-1-bits) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
