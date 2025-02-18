@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1127-last-stone-weight) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0876-hand-of-straights](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0876-hand-of-straights) |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1137-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -528,11 +532,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -572,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
