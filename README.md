@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivansh196/Data-Structure-and-Algorithms/tree/master/1036-rotting-oranges) |
