@@ -1,19 +1,16 @@
 class Solution {
 public:
-int recurr(int i,vector<int> &dp){
-    if(i<0){
-        return 0;
-    }
-    if(i==0){
+int recurr(int n, vector<int> &dp){
+    if(n== 0 || n==1){
         return 1;
     }
-    if(dp[i]!=-1){
-        return dp[i];
+    if(dp[n]!=-1){
+        return dp[n];
     }
-    return dp[i] = recurr(i-1,dp) + recurr(i-2,dp);
+    return dp[n]= recurr(n-1, dp)+ recurr(n-2,dp);
 }
     int climbStairs(int n) {
-        vector<int> dp(n+1,-1);
-       return  recurr(n,dp);
+        vector<int> dp(n+1, -1);
+       return recurr(n, dp);
     }
 };
