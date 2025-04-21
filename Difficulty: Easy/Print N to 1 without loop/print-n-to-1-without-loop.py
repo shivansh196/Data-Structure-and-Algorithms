@@ -1,0 +1,21 @@
+#User function Template for python3
+
+class Solution:
+    def printNos(self, n):
+        # Code here
+        for i in range(n,0,-1):
+            print(i,end=" ")
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+if __name__ == '__main__':
+    t = int(input())
+    for _ in range(t):
+        N = int(input())
+        ob = Solution()
+        ob.printNos(N)
+        print()
+        print("~")
+# } Driver Code Ends
